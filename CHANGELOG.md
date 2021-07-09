@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.32.0](https://www.github.com/googleapis/google-oauth-java-client/compare/v1.31.5...v1.32.0) (2021-07-09)
+
+
+### Features
+
+* add `gcf-owl-bot[bot]` to `ignoreAuthors` ([#690](https://www.github.com/googleapis/google-oauth-java-client/issues/690)) ([2786401](https://www.github.com/googleapis/google-oauth-java-client/commit/27864015793eab524c83ba4fc345a1afc27d7a95))
+
+
+### Bug Fixes
+
+* release scripts from issuing overlapping phases ([#664](https://www.github.com/googleapis/google-oauth-java-client/issues/664)) ([60fec2b](https://www.github.com/googleapis/google-oauth-java-client/commit/60fec2b9bbd5d632dff155a45a2ed0fa2f261c45))
+
 ### [1.31.5](https://www.github.com/googleapis/google-oauth-java-client/compare/v1.31.4...v1.31.5) (2021-04-09)
 
 
